@@ -1,2 +1,2 @@
-SSID='docs.google.com/spreadsheets/u/0/?hl=ja&pli=1'
+SSID='https://docs.google.com/document/u/0/'
 SNAME=okazaki!A2:K1000
