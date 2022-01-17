@@ -1,2 +1,2 @@
-SSID='https://github.com/'
+SSID='1WzGAuCmLbxYH7l0xhpfXkqe35axLQ3jB9XcjS4Uo9CQ'
 SNAME=okazaki!A2:K1000
